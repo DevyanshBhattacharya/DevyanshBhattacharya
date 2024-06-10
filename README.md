@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devyansh Bhattacharya</h1>
 <h3 align="center">I'm an inquisitive individual with high problem solving skills.</h3>
 
-- 🔭 I’m currently working at Alstom Transporation as an Deep Learning Engineer
+- 🔭 I’m currently working at Alstom Transporation (https://www.alstom.com/) as an Deep Learning Engineer
 - Major projects include - QuantaMind](https://github.com/HitG010/QuantaMind)
 
 - 🌱 I’m currently learning **DeepLearning ,GenAI, and ComputerVision based algorithms**
