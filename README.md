@@ -2,7 +2,8 @@
 <h3 align="center">I'm an inquisitive individual with high problem solving skills.</h3>
 
 - 🔭 I’m currently working at Alstom Transporation (https://www.alstom.com/) as a Deep Learning Engineer
-- Major projects include - QuantaMind](https://github.com/HitG010/QuantaMind)
+- Major projects include - QuantaMind (https://github.com/HitG010/QuantaMind)
+                         - DeepTrace  (https://github.com/HitG010/DeepTrace)
 
 - 🌱 I’m currently learning **DeepLearning,GenAI, and ComputerVision based algorithms**
 
